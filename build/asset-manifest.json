@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3cea4475.css",
+    "main.js": "/static/js/main.f5c345d2.js",
+    "static/js/787.9a093f79.chunk.js": "/static/js/787.9a093f79.chunk.js",
+    "static/media/ourBest.png": "/static/media/ourBest.2789623e157473e4342a.png",
+    "static/media/ShantellSans-Bold.otf": "/static/media/ShantellSans-Bold.ded3299eedc234d759d7.otf",
+    "static/media/ShantellSans-Regular.otf": "/static/media/ShantellSans-Regular.6fb91c75698e63dabe7c.otf",
+    "static/media/Merienda-Bold.otf": "/static/media/Merienda-Bold.cde4d6a45cfc5c157ae7.otf",
+    "static/media/Merienda-Regular.otf": "/static/media/Merienda-Regular.bb1b9f2d1da92776bc24.otf",
+    "static/media/ShantellSans-Bold.woff2": "/static/media/ShantellSans-Bold.1db0020265aeeb75431f.woff2",
+    "static/media/ShantellSans-Regular.woff2": "/static/media/ShantellSans-Regular.968468264b7ad5a5c749.woff2",
+    "static/media/Merienda-Bold.woff2": "/static/media/Merienda-Bold.66577abaf3d414ffa222.woff2",
+    "static/media/Merienda-Regular.woff2": "/static/media/Merienda-Regular.d568ed0e464d402ded17.woff2",
+    "index.html": "/index.html",
+    "main.3cea4475.css.map": "/static/css/main.3cea4475.css.map",
+    "main.f5c345d2.js.map": "/static/js/main.f5c345d2.js.map",
+    "787.9a093f79.chunk.js.map": "/static/js/787.9a093f79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cea4475.css",
+    "static/js/main.f5c345d2.js"
+  ]
+}
